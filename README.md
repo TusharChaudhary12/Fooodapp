@@ -13,4 +13,4 @@ name="Kfc"
 
           json.data.cards[2].card.card.gridElements.infoWithStyle.restaurants
 
-          res
+          restaurant
