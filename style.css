@@ -1,0 +1,62 @@
+.res-card{
+  background-color:yellow;
+  width:220px;
+  height:400px;
+}
+
+.res-image{
+  display: flex;
+  height:200px;
+  width:200px;
+  margin:10px auto;
+}
+.res-name,.res-cuisines,.res-rating,.res-time{
+  text-align: center;
+}
+.restaurant-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+}
+
+/* Shiver */
+
+.Shiver-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+  
+}
+.Shiver-card{
+  width:220px;
+  height:400px;
+  background-color: #f0f0f0;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+ul{
+  display: flex;
+  list-style-type: none;
+  gap:20px;
+}
+li{
+  font-size:20px;
+  font-weight: bold;
+}
+.login-btn{
+  font-family:  Calibri; 
+  font-size:22px;
+  border:3px solid black;
+  border-radius: 5px;
+  background-color:yellow;
+  color:red;
+  font-weight: bold;
+  padding: 5px;
+  cursor: pointer;
+}
+.filter{
+  display: flex;
+  gap:20px;
+}
