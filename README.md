@@ -12,3 +12,5 @@ name="Kfc"
           data-->success-->card[2]->gridWidget->gridElements-->infoWithStyle->restaurants[1]->info
 
           json.data.cards[2].card.card.gridElements.infoWithStyle.restaurants
+
+          res
